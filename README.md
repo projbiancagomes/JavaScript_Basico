@@ -3,4 +3,4 @@
  https://projbiancagomes.github.io/JavaScript_Basico/Declaracaodevariaveis/Aula1.html
 
 ##Aula funções
- https://projbiancagomes.github.io/JavaScript_Basico/funcoesJavaScript/funcoes
+ https://projbiancagomes.github.io/JavaScript_Basico/funcoesnoJavaScript/funcoes
