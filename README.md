@@ -2,5 +2,5 @@
 ## Aula declaração variáveis:
  https://projbiancagomes.github.io/JavaScript_Basico/Declaracaodevariaveis/Aula1.html
 
-##Aula funções
+## Aula funções:
  https://projbiancagomes.github.io/JavaScript_Basico/funcoesnoJavaScript/funcoes
