@@ -4,3 +4,7 @@
 
 ## Aula funções:
  https://projbiancagomes.github.io/JavaScript_Basico/funcoesnoJavaScript/funcoes
+
+## Aula 03 função:
+ https://projbiancagomes.github.io/JavaScript_Basico/funcao/aulao3.html
+
