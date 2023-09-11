@@ -11,5 +11,5 @@
 ## Atividade IMC:
 https://projbiancagomes.github.io/JavaScript_Basico/Atividade_IMC/imc.html
 
-## Laço de repetição
-https://projbiancagomes.github.io/JavaScript_Basico/Laco_de_repeticao/index.html
+## Tabuada
+https://projbiancagomes.github.io/JavaScript_Basico/Tabuada/index.html
