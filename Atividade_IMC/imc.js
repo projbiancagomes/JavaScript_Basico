@@ -11,7 +11,7 @@ function calcula_imc(){
         alert("Você está normal com esse indice: " + calculo);
     }
     else if(calculo>=25 && calculo<29.9){
-        alert("Voc~e está com sobre peso com esse indice: " + calculo);
+        alert("Você está com sobrepeso com esse indice: " + calculo);
     }
     else if(calculo>=30 && calculo<39.9){
         alert("Você está com obesidade com esse indice: " + calculo);

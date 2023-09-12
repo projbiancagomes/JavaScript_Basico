@@ -5,7 +5,7 @@ function calcula_imc(event){
     var altura = document.imcForm.altura.value;
     var peso = document.imcForm.peso.value;
 
-    var calculo = peso / (altura * altura);
+    var calculo = peso/(altura * altura);
 
     var resultado;
 
@@ -14,7 +14,7 @@ function calcula_imc(event){
     }else if(calculo>=18.5 && calculo<24.9){
         resultado ="Você está normal com esse indice: " + calculo;
     }else if(calculo>=25 && calculo<29.9){
-        resultado = "Voc~e está com sobre peso com esse indice: " + calculo;
+        resultado = "Você está com sobrepeso com esse indice: " + calculo;
     }else if(calculo>=30 && calculo<39.9){
         resultado = "Você está com obesidade com esse indice: " + calculo;
     }else if(calculo>40){
