@@ -15,4 +15,4 @@ https://projbiancagomes.github.io/JavaScript_Basico/Atividade_IMC/imc.html
 https://projbiancagomes.github.io/JavaScript_Basico/Tabuada/index.html
 
 ## Orientado ao objeto sem laço
-https://projbiancagomes.github.io/JavaScript_Basico/orientadoobjeto/index.html
+https://projbiancagomes.github.io/JavaScript_Basico/orientandoobjeto/index.html
