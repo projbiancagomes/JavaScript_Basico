@@ -18,5 +18,5 @@ https://projbiancagomes.github.io/JavaScript_Basico/Tabuada/index.html
 https://projbiancagomes.github.io/JavaScript_Basico/orientadoobjeto/index.html
 
 ## Orientado ao objeto com laço de repetição:
-https://projbiancagomes.github.io/JavaScript_Basico/orientadoobjetolaco/index.html
+https://projbiancagomes.github.io/JavaScript_Basico/orientacaoobjetocomlaco/index.html
 
