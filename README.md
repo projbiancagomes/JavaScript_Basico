@@ -11,8 +11,12 @@
 ## Atividade IMC:
 https://projbiancagomes.github.io/JavaScript_Basico/Atividade_IMC/imc.html
 
-## Tabuada
+## Tabuada:
 https://projbiancagomes.github.io/JavaScript_Basico/Tabuada/index.html
 
-## Orientado ao objeto sem laço
-https://projbiancagomes.github.io/JavaScript_Basico/orientandoobjeto/index.html
+## Orientado ao objeto sem laço:
+https://projbiancagomes.github.io/JavaScript_Basico/orientadoobjeto/index.html
+
+## Orientado ao objeto com laço de repetição:
+https://projbiancagomes.github.io/JavaScript_Basico/orientadoobjetolaco/index.html
+
