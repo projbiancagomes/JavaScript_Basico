@@ -20,5 +20,5 @@ https://projbiancagomes.github.io/JavaScript_Basico/orientadoobjeto/index.html
 ## Orientado ao objeto com laço de repetição:
 https://projbiancagomes.github.io/JavaScript_Basico/orientacaoobjetocomlaco/index.html
 
-
-
+## Troca imagem:
+https://projbiancagomes.github.io/JavaScript_Basico/trocaimagens/index.html
